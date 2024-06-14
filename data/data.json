@@ -1,0 +1,36 @@
+{
+    "events_categories":[
+        {
+            "id":"amul",
+            "image":"/images/amul.jpeg",
+            "title":"Events at Amul"
+        },
+        {
+            "id":"fountain",
+            "image":"/images/fountain.jpeg",
+            "title":"Events at Fountain"
+        },
+        {
+            "id":"moksha-ground",
+            "image":"/images/mokshaground.jpeg",
+            "title":"Events at Moksha Ground"
+        },
+        {
+            "id":"nescii-lawn",
+            "image":"/images/nescii.jpeg",
+            "title":"Events at Nescii Lawn"
+        },
+        {
+            "id":"apj-hall",
+            "image":"/images/apj.jpeg",
+            "title":"Events at APJ Hall"
+        }, {
+            "id":"library",
+            "image":"/images/library.jpeg",
+            "title":"Events at Library"
+        }
+
+    ]
+    
+    
+}

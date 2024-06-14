@@ -9,12 +9,19 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "chart.js": "^4.4.3",
+    "firebase": "^10.12.2",
+    "next": "14.2.3",
+    "nodemailer": "^6.9.13",
     "react": "^18",
+    "react-chartjs-2": "^5.2.0",
     "react-dom": "^18",
-    "next": "14.2.3"
+    "sass": "^1.77.4"
   },
   "devDependencies": {
+    "css-loader": "^7.1.2",
     "eslint": "^8",
-    "eslint-config-next": "14.2.3"
+    "eslint-config-next": "14.2.3",
+    "style-loader": "^4.0.0"
   }
 }
