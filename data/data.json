@@ -18,7 +18,7 @@
         {
             "id":"nescii-lawn",
             "image":"/images/nescii.jpeg",
-            "title":"Events at Nescii Lawn"
+            "title":"Events at Nescii Ground"
         },
         {
             "id":"apj-hall",
@@ -26,7 +26,7 @@
             "title":"Events at APJ Hall"
         }, {
             "id":"library",
-            "image":"/images/library.jpeg",
+            "image":"/images/Library.jpeg",
             "title":"Events at Library"
         }
 
