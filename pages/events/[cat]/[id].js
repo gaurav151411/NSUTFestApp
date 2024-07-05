@@ -17,7 +17,7 @@ export async function getStaticPaths() {
   const eventsSnapshot = await getDocs(eventsCollection);
  
   const paths = eventsSnapshot.docs.map(doc => {
-    console.log(doc.data())
+    // console.log(doc.data())
     return {
       params: {
         cat:doc.data().place.trim().toLowerCase().replace(/\s+/g, '-'),
@@ -51,7 +51,7 @@ export async function getStaticProps(context) {
 
     // Assuming there's only one document with the specified id
     const eventData = eventsSnapshot.docs[0].data();
-    console.log(eventData);
+    // console.log(eventData);
 
     return {
       props: {
